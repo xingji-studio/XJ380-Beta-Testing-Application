@@ -23,6 +23,7 @@ XJ380 Singularity (Version 1.0.0) 的开发工作已经进入收尾阶段。为�
 
 ## 需要准备的软件
 - QEMU (Linux 环境且启用 kvm)
+- GDB (建议和 QEMU 同环境)
 - VMware
 - Codex CLI/Codex Desktop
 - WSL2 (如果你是 Windows 用户)
